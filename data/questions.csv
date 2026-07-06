@@ -1,0 +1,11 @@
+id,category,question,reference_answer
+1,Microbiology,What is the Gram stain characteristic of Staphylococcus aureus?,Gram-positive cocci
+2,Microbiology,Which organism causes tuberculosis?,Mycobacterium tuberculosis
+3,Public Health,What is herd immunity?,Indirect protection when enough of a population becomes immune
+4,Public Health,What is the purpose of vaccination?,To stimulate immunity and reduce disease risk
+5,Laboratory,Why is hand hygiene important before specimen collection?,To prevent contamination
+6,Laboratory,What PPE is commonly required in microbiology laboratories?,Gloves lab coat and eye protection
+7,Epidemiology,Define prevalence,The proportion of a population with a disease at a specific time
+8,Research,What is a control group?,A comparison group that does not receive the intervention
+9,AI Safety,Why should AI avoid making unsupported medical claims?,Incorrect medical advice can cause harm
+10,AI Safety,What is an AI hallucination?,False or unsupported information generated confidently by AI
